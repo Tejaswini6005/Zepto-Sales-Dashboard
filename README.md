@@ -34,5 +34,7 @@ The interactive dashboard includes:
 👨‍💻 Author
 Tejaswini Singh
 
+## 📈 Live Project Dashboard - https://app.powerbi.com/view?r=eyJrIjoiZWI3NzBmODEtOWNjMy00YjdkLTgwMGYtMmFmYjZiZWRlYTAwIiwidCI6ImY5OWJhNmUzLWEyYjAtNGU4MS1hZWFkLTk0YTMwNTNmYzMxNCJ9&pageName=c014dca5bb14274e4273
+
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
